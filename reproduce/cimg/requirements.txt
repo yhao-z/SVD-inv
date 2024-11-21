@@ -1,0 +1,8 @@
+loguru==0.7.2
+matplotlib==3.7.1
+natsort==8.4.0
+numpy==1.23.3
+scikit_image==0.19.3
+scipy==1.14.1
+torch==1.12.1
+torchvision==0.13.1

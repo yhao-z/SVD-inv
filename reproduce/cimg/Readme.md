@@ -2,7 +2,7 @@
 
 The network is actually a concise deep unrolling network that utilize the tensor low-rank property of the color image. The network structure is as follows. It consists three parts, X, Z, L. The Z part enforces the low rankness in the CNN-transformed domain. The singular value thresholding (SVT) is utilized to realize the low-rank property.
 
-![image-20241121204610147](E:\Yhao\_markdown_pics\image-20241121204610147.png)
+![image-20241121204610147](https://yhao-img-bed.obs.cn-north-4.myhuaweicloud.com/202411212141518.png)
 
 ### Environment
 

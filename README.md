@@ -61,3 +61,17 @@ This is the official code of the paper, **Differentiable SVD based on Moore-Penr
 - The code for the application of *color image compressive sensing* is attached in `./reproduce/cimg` folder, see its [Readme](./reproduce/cimg/Readme.md) for more details.
 - The code for MRI reconstruction is not attached, since the dataset is big and we think no need to upload it.
 - The *color image compressive sensing* is enough to indicate the efficacy of SVD-inv.
+
+### Reference
+
+If this code is useful for your work, please cite our paper.
+
+> @misc{zhang2024differentiablesvdbasedmoorepenrose,
+>       title={Differentiable SVD based on Moore-Penrose Pseudoinverse for Inverse Imaging Problems}, 
+>       author={Yinghao Zhang and Yue Hu},
+>       year={2024},
+>       eprint={2411.14141},
+>       archivePrefix={arXiv},
+>       primaryClass={math.NA},
+>       url={https://arxiv.org/abs/2411.14141}, 
+> }
